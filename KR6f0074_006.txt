@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:24.843539
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:13
 #+TITLE: 觀無量壽佛經疏妙宗鈔
 #+PROPERTY: CBETA_ID T37n1751
 #+PROPERTY: ID KR6f0074
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1751
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6f0074_T_006-0226a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 6
 ¶
 ¶
-
- 觀無量壽佛經疏妙宗鈔卷第六¶
+觀無量壽佛經疏妙宗鈔卷第六¶
 ¶
 宋四明沙門知禮述¶
 
@@ -596,7 +595,7 @@
 益顯此觀門非偏非漸。信不可用事相銷文。¶
 二明侍女發心。經文但云。發無上正等覺心。¶
 是何位邪。經示夫人無生忽後。別云發心驗¶
-非真發。淨名疏云。菩薩柔順忍方有發義。故¶
+非真發。淨名疏云。苦薩柔順忍方有發義。故¶
 多約相似明發心位。名字觀行亦有發義。去¶
 無生遠故下得論。大段第三流通分。金光明¶
 疏云。流名下澍通名不壅。欲使正法之水從¶

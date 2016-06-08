@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:24.742999
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:13
 #+TITLE: 觀無量壽佛經疏妙宗鈔
 #+PROPERTY: CBETA_ID T37n1751
 #+PROPERTY: ID KR6f0074
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1751
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6f0074_T_003-0208c> ¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 觀無量壽佛經疏妙宗鈔卷第三¶
+觀無量壽佛經疏妙宗鈔卷第三¶
 ¶
 宋四明沙門知禮述¶
 
@@ -262,7 +261,7 @@
 報土勝妙五塵。令迦葉等頓忘少欲。起動舞¶
 戲。欲令聲聞知大法妙。生欣慕心鄙棄小道。¶
 此等皆是一處橫論實報土相。故八部二乘。¶
-機熟皆見也。今以劣喻顯於勝土。如其鬼趣¶
+機熱皆見也。今以劣喻顯於勝土。如其鬼趣¶
 居人境界。有人捨報墮彼趣者。即同彼類非¶
 他人共。有人即身能見彼趣。不妨他人同見¶
 其相。墮譬豎入實報土者。見譬橫論實報土¶

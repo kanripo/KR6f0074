@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:24.708826
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:13
 #+TITLE: 觀無量壽佛經疏妙宗鈔
 #+PROPERTY: CBETA_ID T37n1751
 #+PROPERTY: ID KR6f0074
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1751
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6f0074_T_002-0201c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 觀無量壽佛經疏妙宗鈔卷第二¶
+觀無量壽佛經疏妙宗鈔卷第二¶
 ¶
 宋四明沙門知禮述¶
 

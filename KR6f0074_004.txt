@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:24.773634
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:13
 #+TITLE: 觀無量壽佛經疏妙宗鈔
 #+PROPERTY: CBETA_ID T37n1751
 #+PROPERTY: ID KR6f0074
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1751
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6f0074_T_004-0215a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 觀無量壽佛經疏妙宗鈔卷第四¶
+觀無量壽佛經疏妙宗鈔卷第四¶
 ¶
 宋四明沙門知禮述¶
 
@@ -367,7 +366,7 @@
 浮捺陀樹。其金出彼河中。此則河因樹立稱。¶
 金由河得名。如帝釋瓶者。帝釋具云釋迦因¶
 陀羅。此云能主。言其能為天主。言瓶者。釋論¶
-第十五云。有人常供養天。其人貧窮一心供養¶
+第十五云。有人常供養天。其人貪窮一心供養¶
 滿十二歲。求索富貴。天愍此人自現其身。而¶
 問之曰。汝求何等。答我求富貴。欲令所願皆¶
 得。天與一器名曰德瓶。而語之言。所須之物¶
