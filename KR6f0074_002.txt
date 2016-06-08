@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:25.574762
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:13
 #+TITLE: 觀無量壽佛經疏妙宗鈔
 #+PROPERTY: CBETA_ID T37n1751
 #+PROPERTY: ID KR6f0074
